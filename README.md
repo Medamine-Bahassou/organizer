@@ -8,4 +8,6 @@ organize your directory within a click ☝ using ai
 ```
 cd && git clone https://github.com/Medamine-Bahassou/organizer && cd organizer && cp org.py ~/.local/bin/org && cd && rm -rf organizer
 ```
-
+**Requirement!**
+* [pip](https://pypi.org/project/pip/) 
+* [groq](https://console.groq.com/) api `pip install groq`
