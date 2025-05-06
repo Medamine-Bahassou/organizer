@@ -6,6 +6,6 @@ organize your directory within a click ☝ using ai
 
 ## Getting Started 
 ```
-cd ; git clone https://github.com/Medamine-Bahassou/organizer ; cd organizer ; cp org.py ~/.local/bin/org ; cd ; rm -rf organizer;
+cd && git clone https://github.com/Medamine-Bahassou/organizer && cd organizer && cp org.py ~/.local/bin/org && cd && rm -rf organizer
 ```
 
