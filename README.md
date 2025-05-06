@@ -11,3 +11,4 @@ cd && git clone https://github.com/Medamine-Bahassou/organizer && cd organizer &
 **Requirement!**
 * [pip](https://pypi.org/project/pip/) 
 * [groq](https://console.groq.com/) api `pip install groq`
+* `export GROQ_API_KEY="apikey"`
